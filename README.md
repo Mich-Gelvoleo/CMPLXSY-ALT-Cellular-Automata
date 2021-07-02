@@ -51,5 +51,5 @@ end
 ```
 In executing the program, the setup function goes first followed by the outer-circle, circle, and then the circles function. All buttons except the setup button are made to go 'forever' unless these buttons are pressed again which will lead for the function's execution to stop. 
 
-##References
+## References
 https://archives.evergreen.edu/webpages/curricular/2010-2011/natural-order/Labs/Computer_Lab_05_Spirals_and_Branches.pdf
